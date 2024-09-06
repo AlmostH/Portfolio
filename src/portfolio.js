@@ -4,7 +4,7 @@ const header = {
 }
 
 const about = {
-  // all the properties are optional - can be left empty or deleted
+
   name: 'Annabelle Benoist',
   role: 'Développeuse web',
   description:"Suite à ma formation en développement web avec Openclassrooms , je suis disponible pour tous vos projets de sites ou applications web.Je vous invite à regarder les différents projets que j'ai pu réaliser, ainsi que les compétences acquises suite à cette formation. ",
@@ -20,32 +20,48 @@ const projects = [
   {
     name: 'Booki',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      "Intégration d'une page web en HTML et CSS pour un site de location de chambres d'hôtels",
     stack: ['Html', 'Css'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
   {
-    name: "Portfolio Architecte d'interieur",
+    name: "Portfolio Sophie Bluel",
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      "Développement d'un portfolio dynamique en javascript pour une architecte d'interieur",
+    stack: ['Javascript', 'css'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
   {
-    name: 'Project 3',
+    name: 'Nina Carducci',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      "Optimisation du SEO et correction de bugs du site de la photographe Nina Carducci",
+    stack: ['Javascript', 'Lighthouse', 'GTmetrix'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
+  {
+    name: 'Kasa',
+    description:
+      "Création d'une application web de location immobilière avec React",
+    stack: ['SASS', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
+ 
+  {
+    name: 'Mon vieux Grimoire',
+    description:
+      "Developpement du back-end d'un site de notation de livres",
+    stack: ['Node JS', 'Express', 'Mongo DB', 'Mongoose'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
+
 ]
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
   'HTML',
   'CSS',
   'JavaScript',
