@@ -3,6 +3,8 @@ import GitHubIcon from '@material-ui/icons/GitHub'
 import LaunchIcon from '@material-ui/icons/Launch'
 import './ProjectContainer.css'
 
+
+
 const ProjectContainer = ({ project }) => (
   <div className='project'>
     <h3>{project.name}</h3>
@@ -15,7 +17,12 @@ const ProjectContainer = ({ project }) => (
             {item}
           </li>
         ))}
+        
       </ul>
+    )}
+    
+    {project.image && (
+      <img src={project.image}></img>
     )}
 
     {project.sourceCode && (
