@@ -20,11 +20,12 @@ const ProjectContainer = ({ project }) => (
         
       </ul>
     )}
-    
-    {project.image && (
-      <img src={project.image}></img>
-    )}
 
+    <p classname='project-image-container'>{project.image && (
+      <img className ='project-image'src={project.image}></img>
+    )}
+    </p>
+    
     {project.sourceCode && (
       <a
         href={project.sourceCode}
