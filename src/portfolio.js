@@ -40,6 +40,7 @@ const projects = [
     description:
       "Optimisation du SEO et correction de bugs du site de la photographe Nina Carducci",
     stack: ['Javascript', 'Lighthouse', 'GTmetrix'],
+    image: 'https://github.com/AlmostH/Portfolio/blob/main/public/images/Nina-carducci-image.png?raw=true',
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
