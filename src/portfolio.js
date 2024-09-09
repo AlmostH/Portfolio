@@ -32,6 +32,7 @@ const projects = [
     description:
       "Développement d'un portfolio dynamique en javascript pour une architecte d'interieur",
     stack: ['Javascript', 'css'],
+    image: 'https://github.com/AlmostH/Portfolio/blob/main/public/images/sophie-image.png?raw=true',
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
