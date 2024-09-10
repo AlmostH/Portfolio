@@ -43,7 +43,7 @@ const projects = [
     stack: ['Javascript', 'Lighthouse', 'GTmetrix'],
     image: 'https://github.com/AlmostH/Portfolio/blob/main/public/images/Nina-carducci-image.png?raw=true',
     sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    livePreview: 'https://nina-carducci-almosth.vercel.app/',
   },
   {
     name: 'Kasa',
@@ -52,7 +52,7 @@ const projects = [
     stack: ['SASS', 'React'],
     image: 'https://github.com/AlmostH/Portfolio/blob/main/public/images/kasa-image.png?raw=true',
     sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    livePreview: 'https://kasa-almosth.vercel.app/',
   },
  
   {
@@ -60,6 +60,7 @@ const projects = [
     description:
       "Developpement du back-end d'un site de notation de livres",
     stack: ['Node JS', 'Express', 'Mongo DB', 'Mongoose'],
+    image:'https://raw.githubusercontent.com/AlmostH/Portfolio/main/public/images/mvg-image.webp',
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
