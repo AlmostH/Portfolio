@@ -9,7 +9,6 @@ const about = {
   name: 'Annabelle Benoist',
   role: 'Développeuse web',
   description:"Suite à ma formation en développement web avec Openclassrooms , je suis disponible pour tous vos projets de sites ou applications web.Je vous invite à regarder les différents projets que j'ai pu réaliser, ainsi que les compétences acquises suite à cette formation. ",
-  resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/annabelle-benoist-994a34203/',
     github: 'https://github.com/AlmostH',
