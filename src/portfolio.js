@@ -32,8 +32,8 @@ const projects = [
       "Développement d'un portfolio dynamique en javascript pour une architecte d'interieur",
     stack: ['Javascript', 'css'],
     image: 'https://github.com/AlmostH/Portfolio/blob/main/public/images/sophie-image.webp?raw=true',
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/AlmostH/Portfolio-architecte-sophie-bluel',
+    livePreview: 'https://sophie-bluel-architect.vercel.app/',
   },
   {
     name: 'Nina Carducci',
@@ -41,7 +41,7 @@ const projects = [
       "Optimisation du SEO et correction de bugs du site de la photographe Nina Carducci",
     stack: ['Javascript', 'Lighthouse', 'GTmetrix'],
     image: 'https://github.com/AlmostH/Portfolio/blob/main/public/images/Nina-carducci-image.webp?raw=true',
-    sourceCode: 'https://github.com',
+    sourceCode: 'https://github.com/AlmostH/Nina-Carducci-Dev',
     livePreview: 'https://nina-carducci-almosth.vercel.app/',
   },
   {
@@ -50,7 +50,7 @@ const projects = [
       "Création d'une application web de location immobilière avec React",
     stack: ['SASS', 'React'],
     image: 'https://github.com/AlmostH/Portfolio/blob/main/public/images/kasa-image.webp?raw=true',
-    sourceCode: 'https://github.com',
+    sourceCode: 'https://github.com/AlmostH/kasa',
     livePreview: 'https://kasa-almosth.vercel.app/',
   },
  
@@ -60,8 +60,8 @@ const projects = [
       "Developpement du back-end d'un site de notation de livres",
     stack: ['Node JS', 'Express', 'Mongo DB', 'Mongoose'],
     image:'https://raw.githubusercontent.com/AlmostH/Portfolio/main/public/images/mvg-image.webp',
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/AlmostH/MVG',
+    livePreview: 'https://mon-vieux-grimoire-livres.vercel.app/',
   },
 
 ]
