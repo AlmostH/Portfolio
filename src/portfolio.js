@@ -22,7 +22,7 @@ const projects = [
     description:
       "Intégration d'une page web en HTML et CSS pour un site de location de chambres d'hôtels",
     stack: ['Html', 'Css'],
-    image: 'https://github.com/AlmostH/Portfolio/blob/main/public/images/booki_image.png?raw=true',
+    image: 'https://github.com/AlmostH/Portfolio/blob/main/public/images/booki_image.webp?raw=true',
     sourceCode: 'https://github.com/AlmostH/booki',
     livePreview: 'https://almosth.github.io/booki/',
   },
