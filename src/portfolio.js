@@ -49,7 +49,7 @@ const projects = [
     description:
       "Création d'une application web de location immobilière avec React",
     stack: ['SASS', 'React'],
-    image: 'https://github.com/AlmostH/Portfolio/blob/main/public/images/kasa-image.png?raw=true',
+    image: 'https://github.com/AlmostH/Portfolio/blob/main/public/images/kasa-image.webp?raw=true',
     sourceCode: 'https://github.com',
     livePreview: 'https://kasa-almosth.vercel.app/',
   },
