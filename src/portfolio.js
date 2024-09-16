@@ -31,7 +31,7 @@ const projects = [
     description:
       "Développement d'un portfolio dynamique en javascript pour une architecte d'interieur",
     stack: ['Javascript', 'css'],
-    image: 'https://github.com/AlmostH/Portfolio/blob/main/public/images/sophie-image.png?raw=true',
+    image: 'https://github.com/AlmostH/Portfolio/blob/main/public/images/sophie-image.webp?raw=true',
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
@@ -40,7 +40,7 @@ const projects = [
     description:
       "Optimisation du SEO et correction de bugs du site de la photographe Nina Carducci",
     stack: ['Javascript', 'Lighthouse', 'GTmetrix'],
-    image: 'https://github.com/AlmostH/Portfolio/blob/main/public/images/Nina-carducci-image.png?raw=true',
+    image: 'https://github.com/AlmostH/Portfolio/blob/main/public/images/Nina-carducci-image.webp?raw=true',
     sourceCode: 'https://github.com',
     livePreview: 'https://nina-carducci-almosth.vercel.app/',
   },
